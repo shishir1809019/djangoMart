@@ -146,7 +146,3 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'shishirdas726@gmail.com'
 EMAIL_HOST_PASSWORD = "ekbzdlrhpizlicyk"
 EMAIL_USE_TLS = True
-
-SSLCOMMERZ_PAYMENT_URL = 'https://sandbox.sslcommerz.com/gwprocess/v4/api.php'  # Update with production URL for live environment
-SSLCOMMERZ_STORE_ID = 'djang64b255bfdc7fd'
-SSLCOMMERZ_STORE_PASSWORD = 'sslcommerz19'
